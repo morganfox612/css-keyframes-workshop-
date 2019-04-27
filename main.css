@@ -59,5 +59,11 @@ ul {
   text-transform: uppercase;
   font-size: 22px;
   font-family: sans-serif;
-  border: 7px solid #ea5169;
+  border: 7px solid black;
+}
+
+footer {
+  background: #ea5169;
+  font-family: sans-serif;
+  padding-top: 1%;
 }
